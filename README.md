@@ -1,0 +1,1 @@
+# Analysis-of-Machining-State-Patterns-from-CNC-Sensor-Data-Using-Unsupervised-Methods
